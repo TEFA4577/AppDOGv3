@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AppDOGv3</string>
+    <string name="app_welcome">Bienvenido a AppDOG!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    //registro activity
+    <string name="rg_masc">Ingresa los datos de tu mascota</string>
+    <string name="nom_masc">Ingresa el nombre de su mascota</string>
+    <string name="edad_masc">¿Cuál es la edad de tu mascota?</string>
+    <string name="rg_pso">¿Sabes cuál es su peso?</string>
+    <string name="hr_preg">¿Su mascota tiene un horario de alimentación?</string>
+    <string name="rb1">Sí</string>
+    <string name="rb2">No</string>
+    <string name="btn_save">Guardar Datos</string>
+    <string name="nom_rza">Selecciona la raza correspondiente</string>
+    <string name="alim_marc">Selecciona la marca de comida</string>
+    <string-array name="rza_masc">
+        <item>Chihuahua</item>
+        <item>Beagle</item>
+    </string-array>
+
+    <string-array name="alim_marc">
+        <item>Proplan</item>
+        <item>Dog Chow</item>
+    </string-array>
+</resources>
